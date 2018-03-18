@@ -43,3 +43,14 @@ body {
   font-weight: bold;
   color: black
 }
+@media all and (min-width: 480px) and (max-width: 767px) {
+    body {
+        background-color: gray;
+        color: white;
+    }
+}
+@media all and (min-width: 768px) {
+  body {
+    background-color: orange;
+  }
+  

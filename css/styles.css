@@ -1,4 +1,10 @@
 .lense {
   font-weight: 400;
   font-family: sans-serif;
+  color: teal;
+}
+.ideas {
+  font-family: cursive;
+  color: red;
+  font-weight: bold;
 }

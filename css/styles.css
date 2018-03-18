@@ -1,7 +1,6 @@
 .lense {
-  font-weight: 400;
-  font-family: sans-serif;
-  color: teal;
+  color: black;
+  font-weight: bold;
 }
 .ideas {
   font-family: cursive;
@@ -9,12 +8,38 @@
   font-weight: bold;
 }
 .sidebar {
-  width: 40%;
+  width: 35%;
   float: right;
   background-color: teal;
+  font-weight: bold;
+  border-left: 8px solid black;
+  border-right: 8px solid black;
+  border-top: 8px solid black;
+  border-bottom: 8px solid black;
+  padding: 10px;
+  margin: 25px;
 }
 .column {
+  font-weight: bold;
   width: 350px;
   float: left;
-  color: brown;
+  color: black;
+}
+
+.j {
+  border-left: 8px solid black;
+  border-right: 8px solid black;
+  border-top: 8px solid black;
+  border-bottom: 8px solid black;
+  padding: 10px;
+  margin: 25px;
+  font-weight: bold;
+  font-family: sans-serif;
+  color: black;
+  background-color: yellow;
+  text-align: center;
+}
+body {
+  font-weight: bold;
+  color: black
 }

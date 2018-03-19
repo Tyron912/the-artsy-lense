@@ -2,15 +2,15 @@
 
 ## Author
 
-Tyron Kanamugire
+Tyron Kanamugire.
 
 ## Project Description
 
-This is a portfolio written in css and html
+This is a portfolio written in css and html/
 
 ## setup
 
-Download the project .. then open artsy file using browser
+Download the project .. then open artsy file using browser.
 
 ## link
 

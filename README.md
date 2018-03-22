@@ -14,7 +14,7 @@ Download the project .. then open artsy file using browser.
 
 ## link
 
-https://github.com/Tyron912/the-artsy-lense
+file:///home/tyron/Documents/the-artsy-lense/artsy.html
 
 ## License & Copyright
 
